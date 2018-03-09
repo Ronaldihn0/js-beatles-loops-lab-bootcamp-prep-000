@@ -18,3 +18,10 @@ function iLoveTheBeatles(n) {
 
   return array
 }
+
+function johnLennonFacts(facts) {
+  while () {
+    facts[n] + "!!!";
+  }
+  return facts;
+}

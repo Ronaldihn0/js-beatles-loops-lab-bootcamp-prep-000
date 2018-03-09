@@ -21,7 +21,8 @@ function iLoveTheBeatles(n) {
 
 function johnLennonFacts(facts) {
   const facts = [];
-  while () {
-  return facts[] + "!!!";
+  while (i < facts.length) {
+  array.push(`${facts[i]}!!!`)
  }
+ return facts
 }

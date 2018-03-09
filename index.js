@@ -20,9 +20,9 @@ function iLoveTheBeatles(n) {
 }
 
 function JohnLennonFacts(facts) {
-  const facts = [];
+  
   while () {
     facts[n] + "!!!";
   }
-  return facts; 
+  return facts;
 }

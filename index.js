@@ -25,4 +25,5 @@ function johnLennonFacts(facts) {
     Facts.push(`${facts[i]}!!!`)
     i++
   }
+  return Facts;
 }

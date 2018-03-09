@@ -23,5 +23,5 @@ function johnLennonFacts(facts) {
   while () {
   facts[] + "!!!";
 }
-return facts;
+return array
 }

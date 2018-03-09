@@ -9,3 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 function johnLennonFacts(facts) {
   const shoutedFacts = []
+
+  let function theBeatlesPlay(musicians, instruments) {
+  const array = []

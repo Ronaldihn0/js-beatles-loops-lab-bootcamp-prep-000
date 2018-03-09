@@ -7,8 +7,3 @@ function theBeatlesPlay(musicians, instruments) {
 
   return array
 }
-function johnLennonFacts(facts) {
-  const shoutedFacts = []
-
-  let function theBeatlesPlay(musicians, instruments) {
-  const array = []

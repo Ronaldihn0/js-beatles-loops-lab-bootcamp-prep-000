@@ -8,3 +8,10 @@ function iLoveTheBeatles(n) {
   while (i<15)
   return array
 }
+
+for (let i = 0, n = musicians.length; i < n; i++) {
+    array.push(`${musicians[i]} plays ${instruments[i]}`)
+  }
+
+  return array
+}

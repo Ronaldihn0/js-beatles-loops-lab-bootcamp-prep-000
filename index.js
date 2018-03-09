@@ -18,14 +18,3 @@ function iLoveTheBeatles(n) {
 
   return array
 }
-
-function johnLennonFacts(facts) {
-  const shoutedFacts = []
-
-  let i = 0
-  while (i < facts.length) {
-    shoutedFacts.push(`${facts[i]}!!!`)
-  }
-
-  return shoutedFacts
-}

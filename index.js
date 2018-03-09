@@ -8,7 +8,6 @@ function theBeatlesPlay(musicians, instruments) {
   return array
 }
 
-
 function iLoveTheBeatles(n) {
   const array = []
 
@@ -18,4 +17,12 @@ function iLoveTheBeatles(n) {
   } while (n < 15)
 
   return array
+}
+
+function JohnLennonFacts(facts) {
+  const facts = [];
+  while () {
+    facts[n] + "!!!";
+  }
+  return facts; 
 }
